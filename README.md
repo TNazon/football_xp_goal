@@ -1,4 +1,3 @@
-![Logo](http://francky.me/images/quora001.png)
 # Expected Goal 
 
 ### What XP Goal is 
@@ -17,3 +16,9 @@ Build a simple XP Goal **from scratch**, scrapping relevant shot statistics from
 
 ##### Result
 Medium article available soon
+
+
+
+
+
+![Logo](https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2695&q=80)
