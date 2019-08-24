@@ -1,3 +1,4 @@
+![Logo](http://francky.me/images/quora001.png)
 # Expected Goal 
 
 ### What XP Goal is 
